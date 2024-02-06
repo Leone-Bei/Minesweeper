@@ -1,0 +1,3 @@
+编译指令
+gcc minesweeper_test.c -o ms_test.out
+gcc minesweeper_board.c minesweeper_main.c minesweeper_basic_function.c minesweeper_mineset.c minesweeper_player_operation.c minesweeper_game_process.c minesweeper_page_design.c minesweeper_judge.c -o ms_test.out
